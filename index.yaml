@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-04-13T21:04:22.0050045+02:00"
+entries:
+  redis:
+  - apiVersion: v1
+    created: "2021-04-13T21:17:58.9146154+02:00"
+    description: A generated Helm Chart for redis from Skippbox Kompose
+    digest: 17691d6021d03aa23171e9793dd37fbefb00b2fe2d699818fd2ab15a4667e421
+    keywords:
+    - redis
+    name: redis
+    urls:
+    - https://deejayrevok.github.io/helm-repo/redis-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-13T21:17:58.9146154+02:00"
