@@ -1,10 +1,21 @@
 apiVersion: v1
 entries:
+  rabbit:
+  - apiVersion: v1
+    created: "2021-04-14T23:33:59.6930508+02:00"
+    description: RabbitMQ helm chart
+    digest: bac74c9948c1e407a54b43ec5eab01c6131727126c6ad34307785cbdb71a5128
+    keywords:
+    - rabbit
+    name: rabbit
+    urls:
+    - https://deejayrevok.github.io/helm-repo/rabbit-0.1.0.tgz
+    version: 0.1.0
   redis:
   - apiVersion: v1
-    created: "2021-04-13T21:27:16.1056225+02:00"
-    description: A generated Helm Chart for redis from Skippbox Kompose
-    digest: 17691d6021d03aa23171e9793dd37fbefb00b2fe2d699818fd2ab15a4667e421
+    created: "2021-04-14T23:33:59.6940228+02:00"
+    description: Redis helm chart
+    digest: 4321a7fcbaf53b2a799280a0c0ce9495508bafb51dd38acb949bf50b6b9f171d
     keywords:
     - redis
     name: redis
@@ -13,13 +24,13 @@ entries:
     version: 0.1.0
   uaa:
   - apiVersion: v1
-    created: "2021-04-13T21:27:16.1428597+02:00"
-    description: A generated Helm Chart for uaa from Skippbox Kompose
-    digest: 6640debed94a499ab381063002dc55b7f0cd5ed948f98e9d5b4fe6c2d617ae42
+    created: "2021-04-14T23:33:59.7320215+02:00"
+    description: UAA helm chart
+    digest: 029755c397bee18631af222f6627cf75b1a48964c15676ad15661cc63f564091
     keywords:
     - uaa
     name: uaa
     urls:
     - https://deejayrevok.github.io/helm-repo/uaa-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-13T21:27:16.1046216+02:00"
+generated: "2021-04-14T23:33:59.6930508+02:00"
