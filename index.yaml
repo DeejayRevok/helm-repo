@@ -1,8 +1,19 @@
 apiVersion: v1
 entries:
+  news-discovery:
+  - apiVersion: v1
+    created: "2021-04-15T23:58:37.2804887+02:00"
+    description: News discovery app helm chart
+    digest: f90b7da5ea42a218aacabfb7bb057aa917d6246fe5baaf062dfbf62934c7aa03
+    keywords:
+    - news-discovery
+    name: news-discovery
+    urls:
+    - https://deejayrevok.github.io/helm-repo/news-discovery-0.1.0.tgz
+    version: 0.1.0
   news-manager:
   - apiVersion: v1
-    created: "2021-04-15T23:30:16.4016088+02:00"
+    created: "2021-04-15T23:58:37.2814889+02:00"
     description: News manager helm chart
     digest: 0eab82ed12f57a3ee1b58e2b03f04c82fa70a54756b12c44f7c30e6e3163128b
     keywords:
@@ -13,7 +24,7 @@ entries:
     version: 0.1.0
   nlp-service:
   - apiVersion: v1
-    created: "2021-04-15T23:30:16.4016088+02:00"
+    created: "2021-04-15T23:58:37.2824891+02:00"
     description: NLP service helm chart
     digest: 9431bc5e1a0b8f7482c82fe1b0d3ecdb966864dd1a45533ac22bc58267d489c8
     keywords:
@@ -24,7 +35,7 @@ entries:
     version: 0.1.0
   rabbit:
   - apiVersion: v1
-    created: "2021-04-15T23:30:16.4026086+02:00"
+    created: "2021-04-15T23:58:37.2824891+02:00"
     description: RabbitMQ helm chart
     digest: bac74c9948c1e407a54b43ec5eab01c6131727126c6ad34307785cbdb71a5128
     keywords:
@@ -35,7 +46,7 @@ entries:
     version: 0.1.0
   redis:
   - apiVersion: v1
-    created: "2021-04-15T23:30:16.4026086+02:00"
+    created: "2021-04-15T23:58:37.2834888+02:00"
     description: Redis helm chart
     digest: 4321a7fcbaf53b2a799280a0c0ce9495508bafb51dd38acb949bf50b6b9f171d
     keywords:
@@ -46,7 +57,7 @@ entries:
     version: 0.1.0
   uaa:
   - apiVersion: v1
-    created: "2021-04-15T23:30:16.4036104+02:00"
+    created: "2021-04-15T23:58:37.2844891+02:00"
     description: UAA helm chart
     digest: 029755c397bee18631af222f6627cf75b1a48964c15676ad15661cc63f564091
     keywords:
@@ -55,4 +66,4 @@ entries:
     urls:
     - https://deejayrevok.github.io/helm-repo/uaa-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-15T23:30:16.3636345+02:00"
+generated: "2021-04-15T23:58:37.2434892+02:00"
