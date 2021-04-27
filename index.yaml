@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   news-discovery:
   - apiVersion: v1
-    created: "2021-04-27T22:25:57.335889978Z"
+    created: "2021-04-28T00:39:07.4670537+02:00"
     description: News discovery app helm chart
     digest: 09756e6f5c6836b1ac2c70b269d062014479242c4288b4e9a6e9c3fe1e9915f7
     keywords:
@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   news-manager:
   - apiVersion: v1
-    created: "2021-04-27T22:25:57.336630488Z"
+    created: "2021-04-28T00:39:07.4680539+02:00"
     description: News manager helm chart
     digest: 1dc397a64d78095269eed91fdffca1c1d42cd285c61f706df5a5086e4cbd83ee
     keywords:
@@ -24,7 +24,7 @@ entries:
     version: 0.1.0
   news-service:
   - apiVersion: v1
-    created: "2021-04-27T22:25:57.339604629Z"
+    created: "2021-04-28T00:39:07.4700537+02:00"
     description: News service helm chart
     digest: f160a71d3eb74efa5960b65cc1df527240734f2f181e5eb8b63cef08b31a71ad
     keywords:
@@ -35,7 +35,7 @@ entries:
     version: 0.1.0
   news-service-monitor:
   - apiVersion: v1
-    created: "2021-04-27T22:25:57.340128736Z"
+    created: "2021-04-28T00:39:07.4710535+02:00"
     description: News service monitor helm chart
     digest: 422aad73d0495049a11a13dc9f2a63a0c103e667ea9f8bbc3d79030117052eba
     keywords:
@@ -44,20 +44,9 @@ entries:
     urls:
     - https://deejayrevok.github.io/helm-repo/news-service-monitor-0.1.0.tgz
     version: 0.1.0
-  nlp-service:
-  - apiVersion: v1
-    created: "2021-04-27T22:25:57.341445154Z"
-    description: NLP service helm chart
-    digest: c101327cfbc69d93c27a12e8e996e72bb6a1c620e3531a5ec630d56ad74c44cf
-    keywords:
-    - nlp-service
-    name: nlp-service
-    urls:
-    - https://deejayrevok.github.io/helm-repo/nlp-service-0.1.0.tgz
-    version: 0.1.0
   rabbit:
   - apiVersion: v1
-    created: "2021-04-27T22:25:57.341823359Z"
+    created: "2021-04-28T00:39:07.4720537+02:00"
     description: RabbitMQ helm chart
     digest: 218f0fe23e6e2501e426fa1e5e4882056af295e5b72df2532f5e5479ef2ff1c2
     keywords:
@@ -68,7 +57,7 @@ entries:
     version: 0.1.0
   redis:
   - apiVersion: v1
-    created: "2021-04-27T22:25:57.342113863Z"
+    created: "2021-04-28T00:39:07.4720537+02:00"
     description: Redis helm chart
     digest: 9d39df35bf29a3496855a75a5544c045069e4edb6e1158fac0071c6f7ec49ec7
     keywords:
@@ -80,7 +69,7 @@ entries:
   search-engine:
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2021-04-27T22:25:57.344173791Z"
+    created: "2021-04-28T00:39:07.4740537+02:00"
     description: Search engine helm chart
     digest: 7db3a4065871650a2dee317a7bfd3ca42bf92ceb76e169ba34d432008725307d
     keywords:
@@ -91,7 +80,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-27T22:25:57.343267579Z"
+    created: "2021-04-28T00:39:07.4730543+02:00"
     description: Search engine helm chart
     digest: 3392f31d48b06ef1ded8c15ab5059c09798bb2f98064ee8c0300420887be0452
     keywords:
@@ -103,7 +92,7 @@ entries:
   uaa:
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2021-04-27T22:25:57.345669412Z"
+    created: "2021-04-28T00:39:07.4760556+02:00"
     description: UAA helm chart
     digest: ac3889835a169534dac402a857ee4896d8b4d27a1a5114f915df8820c60782ff
     keywords:
@@ -114,7 +103,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-04-27T22:25:57.345081804Z"
+    created: "2021-04-28T00:39:07.4760556+02:00"
     description: UAA helm chart
     digest: 1689ad98800cdba5d2a20628749376219184ec47259118db7f367309f8ccb3d2
     keywords:
@@ -123,4 +112,4 @@ entries:
     urls:
     - https://deejayrevok.github.io/helm-repo/uaa-0.1.0.tgz
     version: 0.1.0
-generated: "2021-04-27T22:25:57.335102167Z"
+generated: "2021-04-28T00:39:07.4300537+02:00"
