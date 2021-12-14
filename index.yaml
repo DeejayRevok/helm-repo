@@ -3,268 +3,278 @@ entries:
   news-discovery:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: "2021-12-14T22:11:33.140199172Z"
+    created: "2021-12-14T23:15:22.4701803+01:00"
     description: News discovery app helm chart
     digest: f06ed9120b6e45f1181d7ef584ebbe8912696334a4f01e5c61a31b630f6ed38d
     keywords:
     - news-discovery
     name: news-discovery
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-discovery-1.0.2.tgz
+    - news-discovery-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2021-12-14T22:11:33.139807374Z"
+    created: "2021-12-14T23:15:22.46918+01:00"
     description: News discovery app helm chart
     digest: 3b135e55502f268f679959604004407face5f43af2378f64d667e6d26f50294d
     keywords:
     - news-discovery
     name: news-discovery
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-discovery-1.0.1.tgz
+    - news-discovery-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-12-14T22:11:33.139268678Z"
+    created: "2021-12-14T23:15:22.46918+01:00"
     description: News discovery app helm chart
     digest: 29f97bc665b51660a8a711830a4338bc0bd9a645925bb929153da923f0e9eb55
     keywords:
     - news-discovery
     name: news-discovery
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-discovery-1.0.0.tgz
+    - news-discovery-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-12-14T22:11:33.138602782Z"
+    created: "2021-12-14T23:15:22.4681809+01:00"
     description: News discovery app helm chart
     digest: 45b74f5beb981af8b10b73fdeea348970d446ead23c4f19a153a91e4dc604d29
     keywords:
     - news-discovery
     name: news-discovery
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-discovery-0.1.0.tgz
+    - news-discovery-0.1.0.tgz
     version: 0.1.0
   news-manager:
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2021-12-14T22:11:33.143477751Z"
+    created: "2021-12-14T23:15:22.4811498+01:00"
     description: News manager helm chart
     digest: 643c19b82b0f9b331c06455e952c871d01c0cc665036848a6e8303335253ffb5
     keywords:
     - news-manager
     name: news-manager
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-manager-1.0.1.tgz
+    - news-manager-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-12-14T22:11:33.142690256Z"
+    created: "2021-12-14T23:15:22.4801498+01:00"
     description: News manager helm chart
     digest: 55c405a920234cbea74317de56d5a8ead89e9585a6314282a92d94335702dcf1
     keywords:
     - news-manager
     name: news-manager
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-manager-1.0.0.tgz
+    - news-manager-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-12-14T22:11:33.14197136Z"
+    created: "2021-12-14T23:15:22.4801498+01:00"
     description: News manager helm chart
     digest: 6f1d911c87b350bc84b8de572b8c20d2b72ffe824d3a7c43dfdf7a46f5d88502
     keywords:
     - news-manager
     name: news-manager
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-manager-0.1.0.tgz
+    - news-manager-0.1.0.tgz
     version: 0.1.0
   news-service:
   - apiVersion: v1
-    created: "2021-12-14T22:11:33.153167789Z"
+    created: "2021-12-14T23:15:22.4891798+01:00"
     description: News service helm chart
     digest: 4a0f2386c2cb7ae2a4fd1e89d466c92550e5f79f9719bebe2c6bc26dfbb284a9
     keywords:
     - news-service
     name: news-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-service-0.1.2.tgz
+    - news-service-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
-    created: "2021-12-14T22:11:33.14988001Z"
+    created: "2021-12-14T23:15:22.4871811+01:00"
     description: News service helm chart
     digest: e6be1859b20eab33855553d0fd5c7423df2644afb796ee037af049218dc2ced4
     keywords:
     - news-service
     name: news-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-service-0.1.1.tgz
+    - news-service-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
-    created: "2021-12-14T22:11:33.146936329Z"
+    created: "2021-12-14T23:15:22.4841502+01:00"
     description: News service helm chart
     digest: b5658101fbbf2f2dc68e792b272d2e260f8e429c94d8633441e5bedf5a4f674b
     keywords:
     - news-service
     name: news-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-service-0.1.0.tgz
+    - news-service-0.1.0.tgz
     version: 0.1.0
   news-service-monitor:
   - apiVersion: v1
-    created: "2021-12-14T22:11:33.153901284Z"
+    created: "2021-12-14T23:15:22.4902125+01:00"
     description: News service monitor helm chart
     digest: 422aad73d0495049a11a13dc9f2a63a0c103e667ea9f8bbc3d79030117052eba
     keywords:
     - news-service-monitor
     name: news-service-monitor
     urls:
-    - https://deejayrevok.github.io/helm-repo/news-service-monitor-0.1.0.tgz
+    - news-service-monitor-0.1.0.tgz
     version: 0.1.0
   nlp-service:
   - apiVersion: v1
     appVersion: 1.0.2
-    created: "2021-12-14T22:11:33.156818665Z"
+    created: "2021-12-14T23:15:22.5057013+01:00"
     description: NLP service helm chart
     digest: 62ef906fe84fc8ccf5dfb56cbe2b57669128268d24a5a2343d05e22aabaa8bf5
     keywords:
     - nlp-service
     name: nlp-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/nlp-service-1.0.2.tgz
+    - nlp-service-1.0.2.tgz
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2021-12-14T22:11:33.156337869Z"
+    created: "2021-12-14T23:15:22.5047017+01:00"
     description: NLP service helm chart
     digest: ae7e3e6e81225d478570397a34adf0f8b3e255722e04586c11206a61464b1a6f
     keywords:
     - nlp-service
     name: nlp-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/nlp-service-1.0.1.tgz
+    - nlp-service-1.0.1.tgz
     version: 1.0.1
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-12-14T22:11:33.155874372Z"
+    created: "2021-12-14T23:15:22.5037023+01:00"
     description: NLP service helm chart
     digest: db54045c147f238ed3bc31df819680ee9d96d3c4485c705976ac764596d383eb
     keywords:
     - nlp-service
     name: nlp-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/nlp-service-1.0.0.tgz
+    - nlp-service-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-12-14T22:11:33.155399375Z"
+    created: "2021-12-14T23:15:22.5037023+01:00"
     description: NLP service helm chart
     digest: 48c7ea3272dbf27faac50f85d0519353b2273652901529699dd041bc947737c3
     keywords:
     - nlp-service
     name: nlp-service
     urls:
-    - https://deejayrevok.github.io/helm-repo/nlp-service-0.1.0.tgz
+    - nlp-service-0.1.0.tgz
     version: 0.1.0
   rabbit:
   - apiVersion: v1
-    created: "2021-12-14T22:11:33.157005164Z"
+    created: "2021-12-14T23:15:22.518104+01:00"
+    description: RabbitMQ helm chart
+    digest: 0789966fc8289d23ec4b8406030279ba9be7f3d0961bfa39c5449bf3002e7228
+    keywords:
+    - rabbit
+    name: rabbit
+    urls:
+    - rabbit-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    created: "2021-12-14T23:15:22.5171805+01:00"
     description: RabbitMQ helm chart
     digest: 218f0fe23e6e2501e426fa1e5e4882056af295e5b72df2532f5e5479ef2ff1c2
     keywords:
     - rabbit
     name: rabbit
     urls:
-    - https://deejayrevok.github.io/helm-repo/rabbit-0.1.0.tgz
+    - rabbit-0.1.0.tgz
     version: 0.1.0
   redis:
   - apiVersion: v1
-    created: "2021-12-14T22:11:33.157185363Z"
+    created: "2021-12-14T23:15:22.5190743+01:00"
     description: Redis helm chart
     digest: 9d39df35bf29a3496855a75a5544c045069e4edb6e1158fac0071c6f7ec49ec7
     keywords:
     - redis
     name: redis
     urls:
-    - https://deejayrevok.github.io/helm-repo/redis-0.1.0.tgz
+    - redis-0.1.0.tgz
     version: 0.1.0
   search-engine:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-12-14T22:11:33.159008951Z"
+    created: "2021-12-14T23:15:22.5332524+01:00"
     description: Search engine helm chart
     digest: 40e1d8c030ea5f3642c5b472dd8a43d0168619f04c1dfb95842089ca27577703
     keywords:
     - search-engine
     name: search-engine
     urls:
-    - https://deejayrevok.github.io/helm-repo/search-engine-1.0.0.tgz
+    - search-engine-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2021-12-14T22:11:33.158463755Z"
+    created: "2021-12-14T23:15:22.5322587+01:00"
     description: Search engine helm chart
     digest: 7db3a4065871650a2dee317a7bfd3ca42bf92ceb76e169ba34d432008725307d
     keywords:
     - search-engine
     name: search-engine
     urls:
-    - https://deejayrevok.github.io/helm-repo/search-engine-0.1.1.tgz
+    - search-engine-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-12-14T22:11:33.157778959Z"
+    created: "2021-12-14T23:15:22.5302528+01:00"
     description: Search engine helm chart
     digest: 3392f31d48b06ef1ded8c15ab5059c09798bb2f98064ee8c0300420887be0452
     keywords:
     - search-engine
     name: search-engine
     urls:
-    - https://deejayrevok.github.io/helm-repo/search-engine-0.1.0.tgz
+    - search-engine-0.1.0.tgz
     version: 0.1.0
   uaa:
   - apiVersion: v1
     appVersion: 0.2.1
-    created: "2021-12-14T22:11:33.160903839Z"
+    created: "2021-12-14T23:15:22.5557045+01:00"
     description: UAA helm chart
     digest: aa5f60033a7fbfed76e1dd38911c6b0d3a0af358947d03edd9bf29081d230ec9
     keywords:
     - uaa
     name: uaa
     urls:
-    - https://deejayrevok.github.io/helm-repo/uaa-0.2.1.tgz
+    - uaa-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
     appVersion: 0.2.0
-    created: "2021-12-14T22:11:33.160294643Z"
+    created: "2021-12-14T23:15:22.554702+01:00"
     description: UAA helm chart
     digest: eef505806fc29b611d43548317763520fa3a64fba777c8d981c6ec4fcfd9e29f
     keywords:
     - uaa
     name: uaa
     urls:
-    - https://deejayrevok.github.io/helm-repo/uaa-0.2.0.tgz
+    - uaa-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: 0.1.1
-    created: "2021-12-14T22:11:33.159849646Z"
+    created: "2021-12-14T23:15:22.5537817+01:00"
     description: UAA helm chart
     digest: ac3889835a169534dac402a857ee4896d8b4d27a1a5114f915df8820c60782ff
     keywords:
     - uaa
     name: uaa
     urls:
-    - https://deejayrevok.github.io/helm-repo/uaa-0.1.1.tgz
+    - uaa-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: 0.1.0
-    created: "2021-12-14T22:11:33.159446049Z"
+    created: "2021-12-14T23:15:22.5436284+01:00"
     description: UAA helm chart
     digest: 1689ad98800cdba5d2a20628749376219184ec47259118db7f367309f8ccb3d2
     keywords:
     - uaa
     name: uaa
     urls:
-    - https://deejayrevok.github.io/helm-repo/uaa-0.1.0.tgz
+    - uaa-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-14T22:11:33.137836087Z"
+generated: "2021-12-14T23:15:22.4621823+01:00"
